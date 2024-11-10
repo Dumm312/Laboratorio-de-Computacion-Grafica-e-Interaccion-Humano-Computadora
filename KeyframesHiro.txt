@@ -1,0 +1,25 @@
+KeyFrame[0].movHiro_y = 0
+KeyFrame[0].giroPiernas = 0
+KeyFrame[0].giroPies = 0
+
+
+KeyFrame[1].movHiro_y = 2
+KeyFrame[1].giroPiernas = -90
+KeyFrame[1].giroPies = 90
+
+
+KeyFrame[2].movHiro_y = 0
+KeyFrame[2].giroPiernas = 0
+KeyFrame[2].giroPies = 0
+
+
+KeyFrame[3].movHiro_y = 2
+KeyFrame[3].giroPiernas = -90
+KeyFrame[3].giroPies = 90
+
+
+KeyFrame[4].movHiro_y = 0
+KeyFrame[4].giroPiernas = 0
+KeyFrame[4].giroPies = 0
+
+
