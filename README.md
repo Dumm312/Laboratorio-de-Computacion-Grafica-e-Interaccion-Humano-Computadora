@@ -9,5 +9,5 @@ https://drive.google.com/drive/folders/1wuCGDTdm0piI0lP9Uj-YmIebqT6NMyEN?usp=sha
 
 Compañeros de equipo:
 
-  Barragan Pilar Diana
-  Uriarte Ortiz Enrique Yahir
+  - Barragan Pilar Diana
+  - Uriarte Ortiz Enrique Yahir
